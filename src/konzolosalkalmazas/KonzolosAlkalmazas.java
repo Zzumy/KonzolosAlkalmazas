@@ -3,7 +3,7 @@ package konzolosalkalmazas;
 public class KonzolosAlkalmazas {
 
     public static void main(String[] args) {
-        metodus();
+//        metodus();
         for (int i = 0; i < 10; i++) {
             
         }
@@ -12,8 +12,8 @@ public class KonzolosAlkalmazas {
         }
     }
 
-    private static void metodus() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    private void metodus() {
+        
     }
-    
+        
 }
