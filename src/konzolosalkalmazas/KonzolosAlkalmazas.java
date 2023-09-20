@@ -13,7 +13,7 @@ public class KonzolosAlkalmazas {
     }
 
     private void metodus() {
-        
+        String szoveg = "Hello";
     }
         
 }
